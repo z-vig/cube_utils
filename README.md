@@ -1,2 +1,2 @@
 # cube_utils
-Spectral Data Cube Utiliy Functions
+Spectral Data Cube Utility Functions
